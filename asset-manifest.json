@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b8896d04.chunk.js",
+    "main.js.map": "/static/js/main.b8896d04.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bd0e4f87.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bd0e4f87.js.map",
+    "static/js/2.36534955.chunk.js": "/static/js/2.36534955.chunk.js",
+    "static/js/2.36534955.chunk.js.map": "/static/js/2.36534955.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.36534955.chunk.js.LICENSE.txt": "/static/js/2.36534955.chunk.js.LICENSE.txt",
+    "static/media/alleluja-4tonus.pdf": "/static/media/alleluja-4tonus.3908490f.pdf",
+    "static/media/alleluja-4tonus.ogg": "/static/media/alleluja-4tonus.eacddf91.ogg",
+    "static/media/alleluja-6tonus.ogg": "/static/media/alleluja-6tonus.3d315749.ogg",
+    "static/media/alleluja-6tonus.pdf": "/static/media/alleluja-6tonus.e33c357c.pdf",
+    "static/media/alleluja-7tonus.pdf": "/static/media/alleluja-7tonus.8f1d9fe5.pdf",
+    "static/media/alleluja-7tonus.ogg": "/static/media/alleluja-7tonus.d86a7006.ogg",
+    "static/media/nagybojt-evangelium-utan.ogg": "/static/media/nagybojt-evangelium-utan.6d9af50c.ogg",
+    "static/media/nagybojt-evangelium-utan.pdf": "/static/media/nagybojt-evangelium-utan.f4737728.pdf",
+    "static/media/zsoltar-1tonus.pdf": "/static/media/zsoltar-1tonus.11e05c98.pdf",
+    "static/media/zsoltar-1tonus.ogg": "/static/media/zsoltar-1tonus.f2a5f053.ogg",
+    "static/media/zsoltar-2tonus.ogg": "/static/media/zsoltar-2tonus.46a845a7.ogg",
+    "static/media/zsoltar-2tonus.pdf": "/static/media/zsoltar-2tonus.b56066f2.pdf",
+    "static/media/zsoltar-8tonus.pdf": "/static/media/zsoltar-8tonus.0c1f3ae1.pdf",
+    "static/media/zsoltar-8tonus.ogg": "/static/media/zsoltar-8tonus.87c0505e.ogg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd0e4f87.js",
+    "static/js/2.36534955.chunk.js",
+    "static/js/main.b8896d04.chunk.js"
+  ]
+}
